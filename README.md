@@ -60,16 +60,37 @@ Requirements
 Windows 10/11
 Python 3.8+
 VRCompanion installed with FreePIE.Console.exe accessible
+--------------------------------------------------------------------------------------------------------------------------------
+********************************************************************************************************************************
+🛠 Installation & Setup
+Follow these steps to get the VR Head-Tracking environment running:
 
-Run the included Install_Requirements.bat once — it auto-installs Python (if missing) and the two required pip packages (pystray, Pillow).
+1. Environment Initialization
+Run the Install_Requirements.bat file. This script will automatically check for Python and install all necessary dependencies and libraries required for the project.
 
+2. Required Software
+Download and install the following core components:
+
+FreePIE: Download here (Required for IO mapping).
+
+VR Companion: Download the latest release from Ofisare's VRCompanion repository.
+
+3. Integration
+Extract the contents of this pack directly into your VR Companion installation directory. Replace any files if prompted to ensure the custom configurations are applied.
+
+4. Game-Specific Enhancements
+To enable full movement, install the appropriate 6DoF mods for your specific titles. You can find a collection of supported game injectors and mods at itsloopyo's GitHub Repositories.
+
+5. Launch & Configuration
+Run VR_Head-Tracking_GUI.pyw to open the control panel.
+
+Configure Settings: Match the tracking parameters to your hardware.
+Hotkeys: Map your preferred toggle keys in the Hotkeys tab to enable/disable tracking while in-game.
+********************************************************************************************************************************
+--------------------------------------------------------------------------------------------------------------------------------------
 <img width="1326" height="935" alt="2 (1)" src="https://github.com/user-attachments/assets/3811696e-da89-4495-a4c8-672a4a4cc644" />
 <img width="1341" height="932" alt="2 (2)" src="https://github.com/user-attachments/assets/4ab2596a-5da3-40d5-957d-ee8598494044" />
 <img width="1343" height="932" alt="2 (3)" src="https://github.com/user-attachments/assets/d274ef6b-4101-4798-a990-0b576faf6a75" />
 
 
-1- run Install_Requirements.bat to install python and requirements
-2- install free pie and vr companion https://github.com/Ofisare/VRCompanion
-3-copy the contents of the pack to the vr companion directory
-4- install 6dof mods for games https://github.com/itsloopyo?tab=repositories
-5- run VR_Head-Tracking_GUI.pyw , setup settings and setup hotkeys to start tracking
+
