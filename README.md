@@ -89,9 +89,9 @@ Configure Settings: Match the tracking parameters to your hardware.
 Hotkeys: Map your preferred toggle keys in the Hotkeys tab to enable/disable tracking while in-game.
 ********************************************************************************************************************************
 --------------------------------------------------------------------------------------------------------------------------------------
-<img width="1326" height="935" alt="2 (1)" src="https://github.com/user-attachments/assets/3811696e-da89-4495-a4c8-672a4a4cc644" />
-<img width="1341" height="932" alt="2 (2)" src="https://github.com/user-attachments/assets/4ab2596a-5da3-40d5-957d-ee8598494044" />
 <img width="1343" height="932" alt="2 (3)" src="https://github.com/user-attachments/assets/d274ef6b-4101-4798-a990-0b576faf6a75" />
+<img width="1341" height="932" alt="2 (2)" src="https://github.com/user-attachments/assets/4ab2596a-5da3-40d5-957d-ee8598494044" />
+<img width="1326" height="935" alt="2 (1)" src="https://github.com/user-attachments/assets/3811696e-da89-4495-a4c8-672a4a4cc644" />
 
 
 
